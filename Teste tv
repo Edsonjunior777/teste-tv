@@ -1,15 +1,25 @@
 #EXTM3U
 #EXTINF:-1,Band
 http://esrv.cc/live/pWw4wd/7LzcK3/18.m3u8
+#EXTINF:-1,Band HD
+http://esrv.cc/live/pWw4wd/7LzcK3/17.m3u8
 #EXTINF:-1,Record TV
 http://esrv.cc/live/pWw4wd/7LzcK3/372.m3u8
+#EXTINF:-1,Record TV HD
+http://esrv.cc/live/pWw4wd/7LzcK3/32052.m3u8
 #EXTINF:-1,SBT
 http://esrv.cc/live/pWw4wd/7LzcK3/384.m3u8
+#EXTINF:-1,SBT HD
+http://esrv.cc/live/pWw4wd/7LzcK3/383.m3u8
 #EXTINF:-1,Globo RJ 
 http://esrv.cc/live/pWw4wd/7LzcK3/217.m3u8
 #EXTINF:-1,Globo SP
 http://23.237.90.106/live/pWw4wd/7LzcK3/224.m3u8?token=GEYOBxIJQQNDUgJdAgdRVgAHCgALCgBQVgIDBQNaAVVaVVAHVwVVAQVBGRoVRkdVBAtnXVcaAgcFAhkWExBTEDwNAkRbQ1AMVFsHAEQeF0QMC10WCQgUF0dfURZcQQRQVVBQRE1DBkEVBkdWB15qVAAQUVdWGgJbQlpZGEQMWD0HAQsHDwVBA0NTFxREW0ZAR1xWQV9UFBdVX0FGBxdTQFlGV1dUWUEVQwBaTQhGR0lHXBp2YRoUF1JOQVEIEF8NDUZcRAxSFgFDTxdRFW1HVRYSSlFSVV1HFQwXBERPFA8CHDkFDg8NXAIXXFcIQRcKR1caGBFVV1teQlpGORNfBkFeRFBRVlQbHA==
+#EXTINF:-1,Globo HD
+http://esrv.cc/live/pWw4wd/7LzcK3/31805.m3u8
 #EXTINF:-1,RedeTV
+http://esrv.cc/live/pWw4wd/7LzcK3/380.m3u8
+#EXTINF:-1,Rede TV HD
 http://esrv.cc/live/pWw4wd/7LzcK3/380.m3u8
 #EXTINF:-1,Combate
 http://esrv.cc/live/pWw4wd/7LzcK3/77.m3u8
@@ -17,16 +27,24 @@ http://esrv.cc/live/pWw4wd/7LzcK3/77.m3u8
 http://esrv.cc/live/pWw4wd/7LzcK3/94.m3u8
 #EXTINF:-1,ESPN
 http://esrv.cc/live/pWw4wd/7LzcK3/153.m3u8
+#EXTINF:-1,ESPN HD
+http://esrv.cc/live/pWw4wd/7LzcK3/31840.m3u8
 #EXTINF:-1,ESPN BRASIL
 http://esrv.cc/live/pWw4wd/7LzcK3/148.m3u8
 #EXTINF:-1,ESPN 2
+http://esrv.cc/live/pWw4wd/7LzcK3/145.m3u8
+#EXTINF:-1,ESPN 2 HD
 http://esrv.cc/live/pWw4wd/7LzcK3/145.m3u8
 #EXTINF:-1, ESPN BRASIL SD
 http://esrv.cc/live/pWw4wd/7LzcK3/149.m3u8
 #EXTINF:-1,Fox Sports 1
 http://esrv.cc/live/pWw4wd/7LzcK3/180.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD
+http://esrv.cc/live/pWw4wd/7LzcK3/31846.m3u8
 #EXTINF:-1,Fox Sports 2
 http://esrv.cc/live/pWw4wd/7LzcK3/177.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://esrv.cc/live/pWw4wd/7LzcK3/31842.m3u8
 #EXTINF:-1,Premiere 2
 http://esrv.cc/live/pWw4wd/7LzcK3/340.m3u8
 #EXTINF:-1,Premiere 3
